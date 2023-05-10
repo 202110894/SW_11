@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">단어장</string>
+
+    <!-- MainActivity -->
+    <string name="action_study">공부하기</string>
+    <string name="action_test">테스트</string>
+    <string name="action_register">등록하기</string>
+    <string name="error_limit_4_word">최소 4개의 단어를 등록해주세요.</string>
+    <string name="error_limit_1_word">최소 1개의 단어를 등록해주세요.</string>
+
+    <!-- TestActivity -->
+    <string name="msg_none"></string>
+    <string name="msg_correct">맞았습니다.</string>
+    <string name="msg_wrong">틀렸습니다.</string>
+
+    <!-- StudyActivity -->
+    <string name="msg_study_error">오류가 발생했어요😢</string>
+
+    <!-- EditVocaActivity -->
+    <string name="title_english">영어</string>
+    <string name="title_mean">뜻</string>
+    <string name="title_only_korean">뜻만</string>
+    <string name="title_only_english">영어만</string>
+    <string name="title_both">모두</string>
+
+    <string name="action_confirm">확인</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="good_bye">Good Bye!</string>
+</resources>
